@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+}
+
+#my_header {
+    width: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(53,123,166);
+    box-sizing: border-box;
+
+}
+#my_header div {
+  margin:auto;
+  display: table-cell;
+  width: 5cm;
+  box-sizing: border-box;
+  color:white;
+  text-decoration: none;
+
+}
+
+}
+
+#my_main h1 {
+    color:rgb(53,123,166);
+}
+
+#my_main em {
+    color:rgb(53,123,166);
+}
+
+#my_membership {
+
+    border: 2px solid rgb(236, 151, 86);
+    border-radius: 22%;
+    margin-top: 0.5cm;
+    margin-bottom: 1cm;
+    margin-right: 100%;
+    float: left;
+    width: 5cm;
+    text-align: center;
+    box-sizing: border-box;  
+    background-color: white;
+}
+
+#my_membership h4{
+    color:rgb(236, 151, 86);
+}
+
+#social_links div {
+    margin:auto;
+    display: table-cell;
+    width: 5cm;
+    box-sizing: border-box;
+    border-radius: 22%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+    float: left;
+    width: 5cm;
+    text-align: center;
+    box-sizing: border-box;  
+
+}
+
+#social_links {
+    margin-bottom: 2cm;
+}
+
+#instagram {
+    background-color: rgb(135,75,244);
+    border: 1px solid black;
+}
+#instagram h3 {
+    color: white;
+    text-decoration: none;
+}
+
+#facebook {
+    background-color: rgb(53,123,166);
+    border: 1px solid black;
+}
+#facebook h3 {
+    color: white;
+    text-decoration: none;
+}
+
+#youtube {
+    background-color: rgb(234,50,35);
+    border: 1px solid black;
+}
+#youtube h3 {
+    color: white;
+    text-decoration: none;
+}
+
+#testimonies {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#bottom_header {
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(53,123,166);
+    box-sizing: border-box;
+    color:white;
+}
