@@ -20,7 +20,6 @@
 
 }
 
-}
 
 #my_main h1 {
     color:rgb(53,123,166);
@@ -106,4 +105,8 @@
     background-color: rgb(53,123,166);
     box-sizing: border-box;
     color:white;
+}
+
+#bottom_header li{
+    list-style: none;
 }
